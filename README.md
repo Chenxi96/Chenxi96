@@ -1,6 +1,11 @@
-# 💫 About Me:
-👨🏻‍💻 Full stack developer<br>💻 In school for Web Development at Humber College, Ontario Canada<br>📕 Having fun learning about Web concepts<br>💭 Currently learning about C# fundamentals
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=header)
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=1500&color=41BB2C&vCenter=true&repeat=false&width=435&lines=Hello!+My+name+is+Chenxi!;I'm+a+Full-Stack+Developer)](https://git.io/typing-svg)
+
+# 💫 About Me:
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Full stack developer<br>💻 In school for Web Development at Humber College, Ontario Canada<br>📕 Having fun learning about Web concepts<br>💭 Currently learning about C# fundamentals
+
+![futuristicPixel](https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzNjU4MjcsIm5iZiI6MTc1MDM2NTUyNywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE5VDIwMzg0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkMTdjNDhjYzBkOWE4NTQ1ODkwZjk5ODM3ZmRhZmUyOTkzODliNmJiNjU1ZjBhZjAyMjY0MmY3YzEyYzU2MzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dvUluZQ83dV6yS7-3JUQUUVTi3VpCLL-CROV5q-NFk0)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chenxilin/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/30602570/chenxi-lin) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Chenxi_Lin_) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lin.chenxi14@gmail.com) 
@@ -12,4 +17,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Chenxi96&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Chenxi96&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![futuristicPixel](https://private-user-images.githubusercontent.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzNjE5NzIsIm5iZiI6MTc1MDM2MTY3MiwicGF0aCI6Ii83NDAzODE5MC8yNDIzOTA1MjQtMGM3ZWI2ZWQtNjYzYi00Y2U0LWJmYmQtMTgyMzlhMzhiYTFiLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE5VDE5MzQzMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWNhNjBlZWYwZThiYmRhZDNjMmJmM2VjOTY3ZWNkYWNmNmE2ODliNzIwMTcxYWY3YWZhY2NlOWNiNjJmYTNjNDQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.jiAwANgex_CL4ijORcOtf5r6IHfTzpnFzl654TUTqBw)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=150&section=footer)
