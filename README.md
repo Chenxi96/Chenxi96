@@ -5,7 +5,7 @@
 # 💫 About Me:
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Full stack developer<br>💻 In school for Web Development at Humber College, Ontario Canada<br>📕 Having fun learning about Web concepts<br>💭 Currently learning about C# fundamentals
 
-Funny Joke of the day :)
+Funny Joke of the day :)<br>
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ![futuristicPixel](https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTAzNjU4MjcsIm5iZiI6MTc1MDM2NTUyNywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA2MTklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNjE5VDIwMzg0N1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPThkMTdjNDhjYzBkOWE4NTQ1ODkwZjk5ODM3ZmRhZmUyOTkzODliNmJiNjU1ZjBhZjAyMjY0MmY3YzEyYzU2MzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.dvUluZQ83dV6yS7-3JUQUUVTi3VpCLL-CROV5q-NFk0)
